@@ -8,7 +8,7 @@
 ```bash
 mkdir build
 cd build
-git clone https://github.com/imchin/Xicro
+git clone https://github.com/JMild/unitree_go1.git
 cmake ..
 make
 ```
@@ -30,7 +30,11 @@ cd UnitreeCameraSDK;
 ### RUN
 Run file example_walk
 ```bash
-cd unitree_legged_sdk; 
-./bin/example_getRawFrame 
+cd unitree_legged_sdk/build; 
+sudo ./example_walk
 ```
-
+Run file control_go1
+```bash
+cd unitree_legged_sdk/build; 
+python3 control_go1.py
+```
