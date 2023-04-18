@@ -1,4 +1,5 @@
 # unitree_go1
+Unitree Robot Dog - Unitree Go1 
 
 ### Requisites:
 - [unitree_legged_sdk](https://github.com/unitreerobotics/unitree_legged_sdk)
