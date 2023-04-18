@@ -7,7 +7,7 @@
 ```bash
 mkdir build
 cd build
-git clone 
+git clone https://github.com/JMild/unitree_go1.git 
 cmake ..
 make
 ```
