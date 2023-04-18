@@ -15,8 +15,7 @@ make
 
 ### Build UnitreeCameraSDK
 ```bash
-cd UnitreecameraSDK;![Screenshot from 2023-03-30 10-40-41](https://user-images.githubusercontent.com/78678913/232762201-eec67f99-2108-4e06-a2b6-6baf09c78296.png)
-
+cd UnitreecameraSDK;
 mkdir build && cd build;
 cmake ..; make
 ```
