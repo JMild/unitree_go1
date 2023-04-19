@@ -26,7 +26,7 @@ cmake ..; make
 Get Camera Raw Frame:
 ```bash
 cd UnitreeCameraSDK; 
-./bin/example_getRawFrame 
+./bins/example_getRawFrame 
 ```
 
 ### RUN
